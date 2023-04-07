@@ -3,8 +3,8 @@ D.A.B.O.N- Digital Assistant Based On Nlp
 
 
 
-FRONTEND HOSTED ON VERCEL -
-SERVER HOSTED ON -
+FRONTEND HOSTED ON -  vercel.com
+SERVER HOSTED ON - render.com
 
 
 
